@@ -250,18 +250,7 @@ void main(void) {
 
 ## 📸 Circuit Diagram
 
-Add your Proteus schematic image to the repository and name it:
-
-```text
-led_patterns.png
-```
-
-Then include it using:
-
-```md
-![Circuit Diagram](led_patterns.png)
-```
-
+![image alt] (https://github.com/manubraj/PIC-MICROCONTROLLER-LED-Project/blob/eb545778c5121e664fb2da37058bc3d13022d89a/led%20blink.png)
 ---
 
 ## 📄 License
